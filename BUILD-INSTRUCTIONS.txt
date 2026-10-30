@@ -1,0 +1,16 @@
+RASHTAL RESTAURANT ANDROID PROJECT (APK SOURCE)
+
+This is an Android Studio project wrapping the offline billing web app.
+It is NOT a compiled APK yet.
+
+To build the APK:
+1. Install Android Studio on a computer.
+2. Open this folder (RasthalAndroid) in Android Studio.
+3. Let Gradle sync and install Android SDK Platform 35 if prompted.
+4. Choose Build > Build Bundle(s) / APK(s) > Build APK(s).
+5. Android Studio will show the APK location, normally app/build/outputs/apk/debug/app-debug.apk.
+
+Important:
+- The app stores sales locally on that device/browser WebView storage.
+- Test the bill/PDF flow on your Android device before live use.
+- Menu spellings and prices were transcribed from photos; verify all entries.
